@@ -1,0 +1,10 @@
+{
+	"Gerar token": {"Endpoint":"www.urlficticia.com.br/api/v1/token","Headers":"Content-Type: application/json","Body":["username:","alex","password:","12345"],"Response":"Endpoint":"www.urlficticia.com.br/api/v1/token","Headers":"Content-Type: application/json","Body":["username:","alex","password:","12345"],"Response":"b2c6f757eb9d49f4b2dace3aab9b1566"}"Headers":"Content-Type: application/json",
+	"Body": [
+		"username:",
+		"alex",
+		"password:",
+		"12345"
+	],
+	"Response": "b2c6f757eb9d49f4b2dace3aab9b1566"
+}}

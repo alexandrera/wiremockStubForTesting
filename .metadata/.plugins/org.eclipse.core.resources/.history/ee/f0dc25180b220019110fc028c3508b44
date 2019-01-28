@@ -1,0 +1,12 @@
+{
+	"informações": "Consultar empréstimo",
+	"Endpoint": "www.urlficticia.com.br/api/v1/emprestimos/<id>",
+	"Headers": [
+		"Content-Type: application/json",
+		"Authorization: Bearer b2c6f757eb9d49f4b2dace3aab9b1566"
+	],
+	"Response": [
+		"id-emprestimo: String",
+		"status: String"
+	]
+}
