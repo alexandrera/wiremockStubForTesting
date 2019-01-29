@@ -1,5 +1,5 @@
 {
-	"Gerar token": {
+	"Gerar_token": {
 		"Endpoint": "www.urlficticia.com.br/api/v1/token",
 		"Headers": "Content-Type: application/json",
 		"Body": [

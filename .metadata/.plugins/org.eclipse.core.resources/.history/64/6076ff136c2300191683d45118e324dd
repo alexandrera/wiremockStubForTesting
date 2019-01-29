@@ -1,0 +1,17 @@
+{
+	"informações": "Criar empréstimo",
+	"Endpoint": "www.urlficticia.com.br/api/v1/emprestimos",
+	"Headers":[
+		"Content-Type: application/json",
+		"Authorization: Bearer b2c6f757eb9d49f4b2dace3aab9b1566"
+		],
+	"Body": [
+		"id: Number",
+		"nome: String",
+		"cpf: String",
+		"vl_emprestimo: String",
+		"nr_parcelas: String",
+		"vl_parcelas: String"
+	]
+
+}

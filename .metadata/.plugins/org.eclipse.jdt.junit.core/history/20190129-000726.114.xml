@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Mystub (1)" project="stub" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="test.Mystub" time="2.711">
+    <testcase name="serverIsUp" classname="test.Mystub" time="2.602"/>
+    <testcase name="validateJsonGerarToken" classname="test.Mystub" time="0.109"/>
+  </testsuite>
+</testrun>
